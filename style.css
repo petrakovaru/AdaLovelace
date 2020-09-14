@@ -1,0 +1,114 @@
+html {
+  font-size: 20px; }
+
+body {
+  margin: auto;
+  padding: auto;
+  width: 100%;
+  border: auto 10px;
+  background: ffff;
+  font-family: 'Quicksand', sans-serif;
+
+}
+
+#main {
+  display: container;
+}
+
+.header {
+  margin: 40px 40px 40px 40px;
+  padding: 30px 30px 30px 30px;
+  display: block;
+  background: #F0F0F0;
+  text-align: center;
+  
+  font-weight: 700;
+  border: 0.5px groove rgb(192,0,0, 0.1);
+  
+  
+  
+  
+  
+}
+h1 {
+
+  letter-spacing: -4px;
+  text-shadow: 1px 2px #bcbbc7;
+  font-size: 3rem;
+  opacity: 90%;
+}
+#title {
+  margin-top: 40px;
+  margin-bottom: 5px;
+  font-weight: 600;
+  font-size: 80%;
+  text-shadow: none;
+}
+
+#img-div {
+  
+  position: relative;
+  display: block;
+  text-align: center;
+  border: none;
+  
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  vertical-align: top;
+  max-width: 100%;
+  height: auto;
+  border-radius: 50px;
+}
+
+#img-caption {
+  padding-top: 20px;
+  padding-bottom: 20px;
+ 
+
+}
+
+#tribute-info {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  background: #F0F0F0;
+}
+
+#headline {
+  text-align: center;
+  
+  padding: 15px;
+}
+
+  
+  
+  
+}
+ul {
+  
+}
+
+li {
+  padding: 20px;
+}
+
+blockquote {
+  font-weight: 500;
+  padding: 40px;
+}
+h4 {
+  padding: 30px;
+}
+#tribute-link {
+  color: blue;
+  text-decoration: none;
+  font-weight: 500;
+  
+  
+
